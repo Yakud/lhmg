@@ -1,0 +1,1 @@
+[["О лаборатории","Lab","main"],["Публикации","Publications","publications"],["Гранты","Grants","grants"],["Экспедиции","Expedtions","expeditions"],["Фотогалерея","Photogallery","gallery"],["Контакты","Contacts","contacts"],["Болезнь Лебера","Lebers disease","lhon"],["Связь","Mail","mail"]]
